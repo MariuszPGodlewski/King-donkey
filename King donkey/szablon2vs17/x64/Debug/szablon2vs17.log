@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\main.cpp(65,2): warning C4091: "typedef ": zignorowano na lewo od "var" podczas gdy brak deklaracji zmiennej
+C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\main.cpp(349,39): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\main.cpp(351,39): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\main.cpp(354,40): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\main.cpp(348,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\main.cpp(350,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\main.cpp(353,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\main.cpp(358,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\main.cpp(413,14): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\main.cpp(517,14): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\main.cpp(693,29): warning C4244: "-=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\main.cpp(631,1): warning C4715: "IsLadder”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\main.cpp(624,1): warning C4715: "IsPlatform”: niewszystkie ścieżki kodu zwracają wartość
+  szablon2vs17.vcxproj -> C:\Users\mgodl\OneDrive\Pulpit\Code\kap\template-project-2\x64\Debug\szablon2vs17.exe
